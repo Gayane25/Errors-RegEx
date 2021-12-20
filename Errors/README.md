@@ -103,4 +103,4 @@ Upon running the second example, the teacher gets TypeError: `lab.runLab` is not
 Add a try/catch block inside of `gradeLabs` to catch an exception if the `runLab `property is not defined.
 If the exception is thrown, the result should be set to the text `"Error thrown"`.
 
-[solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/Errors/gradeLabs.js)
