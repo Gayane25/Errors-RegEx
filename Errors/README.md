@@ -1,4 +1,4 @@
-# \*\*Tasks \_ Errors
+# Tasks
 
 ---
 
@@ -48,7 +48,7 @@ Complete the `isPositive` function below. It has one integer parameter `a` . If 
 1. If a is 0, throw an Error with message = `Zero Error`
 2. If a is negative, throw an Error with message = `Negative Error`
 
-[solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/Errors/isPositive.js)
 
 ---
 
