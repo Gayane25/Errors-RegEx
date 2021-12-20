@@ -17,7 +17,7 @@
 | myRegExp.test("900876") | true       |
 | myRegExp.test(" 4983")  | false      |
 
-[solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/RegExp/RegExp_Validation.js)
 
 -
 
