@@ -1,7 +1,5 @@
 # Tasks
 
----
-
 - [Code Requirement List](https://docs.google.com/document/d/1ruDwdOAXNmJ1WVu5gevdJzh9nbjchpPxpOtAEBbqdrs/edit)
 
 #### Required Tasks
