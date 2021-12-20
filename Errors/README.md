@@ -37,7 +37,7 @@ s.split is not a function
 
 ```
 
-## [solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/Errors/reversedString.js)
 
 ##### Task 2
 
@@ -63,7 +63,7 @@ console.log(s);
 }
 ```
 
-[solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/Errors/reversedString.js)
 
 ---
 
