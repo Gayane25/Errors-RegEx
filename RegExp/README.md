@@ -28,4 +28,4 @@ str.match(REGEXP);
 '<a href="/">', '<input type="radio" checked>', "<b>";
 ```
 
-[solution]()
+[solution](https://github.com/Gayane25/Lesson011-Errors-RegEx/blob/master/RegExp/RegExp2.js)
