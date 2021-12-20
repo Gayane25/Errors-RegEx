@@ -16,3 +16,16 @@
 | myRegExp.test("89abc1") | false      |
 | myRegExp.test("900876") | true       |
 | myRegExp.test(" 4983")  | false      |
+
+[solution]()
+
+-
+
+```
+const REGEXP = /abc/;
+let str = '<> <a href="/"> <input type="radio" checked> <b>';
+str.match(REGEXP);
+'<a href="/">', '<input type="radio" checked>', "<b>";
+```
+
+[solution]()
