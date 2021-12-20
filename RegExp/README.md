@@ -9,8 +9,8 @@
 - Only numerical characters (0-9).
 - No whitespace.
 
+**Input** /**Output**
 :---|:---
-**Input** |**Output**
 myRegExp.test("1234") | true
 myRegExp.test("45135") | false
 myRegExp.test("89abc1") |false
